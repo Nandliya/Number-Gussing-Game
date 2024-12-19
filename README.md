@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-Welcome to the Number Guessing Game! This is a simple console application written in C# that allows players to guess a random number between 1 and 100. The game provides three difficulty levels (Easy, Medium, and Hard), each with different numbers of chances to guess the correct number. 
+Welcome to the Number Guessing Game! This is a simple console application written in C# that allows players to guess a random number between 1 and 100. The game provides three difficulty levels (Easy, Medium, and Hard), each with different numbers of chances to guess the correct number.
 
 ## Features
 
@@ -12,6 +12,10 @@ Welcome to the Number Guessing Game! This is a simple console application writte
 - **User Input Validation**: If the user inputs an invalid number, the game will inform them and prompt for another input.
   
 - **Replay Option**: After completing a round, users can choose to play again or exit the game.
+
+## Roadmap
+
+If you want to explore the detailed roadmap and plan for the future enhancements of this project, check out the roadmap for the Number Guessing Game here: [Number Guessing Game Roadmap](https://roadmap.sh/projects/number-guessing-game).
 
 ## Requirements
 
